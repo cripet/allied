@@ -6,7 +6,7 @@ div {
 }
 
 #circle{
-	/*TODO: make stuff look like circle*/
+	 border-radius:100%;
 	
 }
 #rounded_square{
@@ -17,7 +17,7 @@ div {
 }
 
 .red{
-	/*TODO: make me red */
+	background-color:red;
 }
 
 .small{
