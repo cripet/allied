@@ -1,0 +1,25 @@
+div {
+	display:block;
+	height:50px;
+	width:50px;
+	border:1px black solid;
+}
+
+#circle{
+	/*TODO: make stuff look like circle*/
+	
+}
+#rounded_square{
+	border-radius:10px;
+}
+.blue{
+	background-color:blue;
+}
+
+.red{
+	/*TODO: make me red */
+}
+
+.small{
+	/*TODO: make as twice smaller than other objects */
+}
